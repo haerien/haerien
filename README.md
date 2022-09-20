@@ -20,5 +20,10 @@
 <a href = "https://www.python.org"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt = "Python" title="Python" height="45" width="45"></img></a>
 <a href = "https://www.cprogramming.com"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt = "C" title="C" height="45" width="45"></img></a>
 <a href = "https://www.cprogramming.com"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt = "C++" title ="C++" height="45" width="45"></img></a>
+<a href = "https://www.arduino.cc"> <img src = "https://camo.githubusercontent.com/b3a1cdd20d0f308634ddd4598cdaa729c2d77047f51e66fa7206b9b4bac94c23/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61726475696e6f2d312e737667" alt = "Arduino" title ="Arduino" height="45" width="45"></img></a>
+
+
+<br></br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=haerien&theme=dark_lover&row=2&column=3&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
