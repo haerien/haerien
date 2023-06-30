@@ -5,7 +5,7 @@
 - 🤖 I also interested about data science.
 - 📫 How to reach me: sahinemre.dev@gmail.com
 
-#### 🔗 Connect with me:
+<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me </h3>
 
 <a href = "https://www.linkedin.com/in/sahin-emre/" alt> 
   <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ alt ="LinkedIn"></img> 
