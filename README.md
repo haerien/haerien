@@ -13,18 +13,17 @@
 
 #### Languages and Tools:
 
-<a href = "https://html.com"> <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt = "HTML" title="HTML" height="45" width="45"></img></a>
-<a href = "https://wikipedia.org/wiki/CSS"><img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt = "CSS" title="CSS" height="45" width="45"></img></a>
-<a href = "https://www.javascript.com"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt = "JavaScript" title="JavaScipt" height="45" width="45"></img></a>
-<a href = "https://www.java.com/tr/"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt = "Java" title = "Java" height="45" width="45"></img></a>
-<a href = "https://git-scm.com"> <img src = "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt = "GIT" title="GIT" height="45" width="45"></img></a>
-<a href = "https://www.python.org"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt = "Python" title="Python" height="45" width="45"></img></a>
-<a href = "https://www.cprogramming.com"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt = "C" title="C" height="45" width="45"></img></a>
-<a href = "https://www.cprogramming.com"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt = "C++" title ="C++" height="45" width="45"></img></a>
-<a href = "https://www.arduino.cc"> <img src = "https://camo.githubusercontent.com/b3a1cdd20d0f308634ddd4598cdaa729c2d77047f51e66fa7206b9b4bac94c23/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61726475696e6f2d312e737667" alt = "Arduino" title ="Arduino" height="45" width="45"></img></a>
-<a href = "https://www.google.com/script/start/"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/2048px-Google_Apps_Script.svg.png" alt = "Apps Script" title="Apps Script" height="45" width="45"></img></a>
-
-
+<a><img height="32" width="32" src="https://cdn.simpleicons.org/dotnet/#512BD4" alt=".NET" title=".NET"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/csharp/#512BD4" alt="C#" title="C#"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26" alt="HTML" title="HTML"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6F" alt="CSS" title="CSS"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" alt="JavaScript" title="JavaScript"/>
+<img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java"></img>
+<img height="32" width="32" src="https://cdn.simpleicons.org/git/#F05032" alt="Git"/>
+<img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/#00599C" alt="C++" title="C++"/>
+<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/2048px-Google_Apps_Script.svg.png" alt="Google Apps Script" title="Google Apps Script"/></a>
+<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/#47A248" alt="MongoDB" title="MongoDB"/>
 <br></br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=haerien&theme=dark_lover&row=2&column=3&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
