@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Emre.
 
 - 🔬 I'm a student in Computer Engineering at Uludag University.
-- 🌱 I’m currently learning about web development.
-- 🤖 I'm also interested about machine learning.
+- 🌱 I’m currently learning about data science & machine learning.
+- 🤖 I'm also interested about backend development.
 - 📫 How to reach me: sahinemre.dev@gmail.com
 
 <h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me </h3>
