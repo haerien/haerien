@@ -13,15 +13,11 @@
 
 #### Languages and Tools:
 
-<a><img height="32" width="32" src="https://cdn.simpleicons.org/dotnet/#512BD4" alt=".NET" title=".NET"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/csharp/#512BD4" alt="C#" title="C#"/>
+<a><img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26" alt="HTML" title="HTML"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6F" alt="CSS" title="CSS"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" alt="JavaScript" title="JavaScript"/>
-<img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java"></img>
 <img height="32" width="32" src="https://cdn.simpleicons.org/git/#F05032" alt="Git"/>
-<img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/#00599C" alt="C++" title="C++"/>
 <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/2048px-Google_Apps_Script.svg.png" alt="Google Apps Script" title="Google Apps Script"/></a>
 <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/#47A248" alt="MongoDB" title="MongoDB"/>
 <br></br>
