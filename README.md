@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Emre.
 
-- 🔬 I'm a student in Computer Engineering at Uludag University.
+- 🔬 I'm a fresh graduate of Computer Engineering from Uludag University.
 - 🌱 I’m currently learning about backend development.
 - 🤖 I'm also interested in data science & machine learning.
 - 📫 How to reach me: sahinemre.dev@gmail.com
