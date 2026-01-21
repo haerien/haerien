@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Emre
 
-🔬 I'm a **Software Engineer** specializing in building ERP & CRM systems and desktop applications </br>
+🔬 I'm specializing in building ERP & CRM systems and desktop applications </br>
 🌱 Currently diving into **AI Engineering** <br/>
 🤖 Want to learn more about **Robotics** as well
 
