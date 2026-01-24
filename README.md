@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Emre
 
-🔬 I'm specializing in building ERP & CRM systems and desktop applications </br>
+🔬 I'm specializing in building desktop applications and ERP & CRM systems </br>
 🌱 Currently diving into **AI Engineering** <br/>
-🤖 Want to learn more about **Robotics** as well
+🤖 Want to learn more about **Microcontrollers** as well
 
 ---
 
